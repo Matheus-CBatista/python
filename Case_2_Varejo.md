@@ -1,4 +1,4 @@
-# biblioteca_pandas
+# Case 2 - Varejo
 
 O dataset de varejo é composto por informações de venda de uma loja virtual que atua todo território nacional, vendendo produtos de diferentes departamentos.
 
